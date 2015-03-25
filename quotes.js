@@ -1,3 +1,9 @@
+/*Ryan Postma
+ * CMP237
+ * single to double quotes
+ * 3/24/15
+ */
+
 //change this string
 var text = "'I'm the cook,' he said, 'it's my job.'";
 
